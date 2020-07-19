@@ -4,4 +4,5 @@
      make re && ./navy [MAP]
 #### SECOND Player : 
      ./navy [PID] [MAP]
-*Refer to **PDF** for more information.*
+     
+*Refer to **PDF** for more **information**.*
