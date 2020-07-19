@@ -1,2 +1,8 @@
 # Navy
-This is a EPITECH project were I must code in C, a terminal version of the very famous Battleship game.
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
