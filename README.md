@@ -1,4 +1,5 @@
 # Navy
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+Refer to PDF for more information.
+#### USAGE :
+     For 1st player : make re && ./navy [MAP]
+     For 2nd player : ./navy [PID] [MAP]
