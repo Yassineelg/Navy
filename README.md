@@ -1,7 +1,7 @@
 # Navy
 Refer to PDF for more information.
 ### USAGE :
-#### For 1st player :
+#### FIRST Player :
      make re && ./navy [MAP]
-#### For 2nd player : 
+#### SECOND Player : 
      ./navy [PID] [MAP]
